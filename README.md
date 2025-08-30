@@ -19,5 +19,5 @@ Client ──> Nginx ──> Spring Boot (Auth / Notes / Orders / Coupons / Feed
 - **Nginx** for reverse proxy/load balancing
 
 ## License
-Ziyu Xiao
+MIT License © 2025 zifeiyuu
 
